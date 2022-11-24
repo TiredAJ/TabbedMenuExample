@@ -1,0 +1,17 @@
+E:\non-UniWork\TabbedMenuExample3LW\bin\Debug\net7.0-windows\TabbedMenuExample3.exe
+E:\non-UniWork\TabbedMenuExample3LW\bin\Debug\net7.0-windows\TabbedMenuExample3.deps.json
+E:\non-UniWork\TabbedMenuExample3LW\bin\Debug\net7.0-windows\TabbedMenuExample3.runtimeconfig.json
+E:\non-UniWork\TabbedMenuExample3LW\bin\Debug\net7.0-windows\TabbedMenuExample3.dll
+E:\non-UniWork\TabbedMenuExample3LW\bin\Debug\net7.0-windows\TabbedMenuExample3.pdb
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.csproj.AssemblyReference.cache
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.Form1.resources
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.csproj.GenerateResource.cache
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.GeneratedMSBuildEditorConfig.editorconfig
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.AssemblyInfoInputs.cache
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.AssemblyInfo.cs
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.csproj.CoreCompileInputs.cache
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.dll
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\refint\TabbedMenuExample3.dll
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.pdb
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\TabbedMenuExample3.genruntimeconfig.cache
+E:\non-UniWork\TabbedMenuExample3LW\obj\Debug\net7.0-windows\ref\TabbedMenuExample3.dll
